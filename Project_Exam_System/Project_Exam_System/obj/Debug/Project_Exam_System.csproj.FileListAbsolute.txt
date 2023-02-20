@@ -1,0 +1,132 @@
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.exe.config
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.exe
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.pdb
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.AssemblyReference.cache
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.login.resources
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.Properties.Resources.resources
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.GenerateResource.cache
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.CoreCompileInputs.cache
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.exe
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.pdb
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.signup_student.resources
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.choose_course.resources
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.show_reports.resources
+E:\FCIS-year4\ITI_BI\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.exam.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.exe.config
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.exe
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.pdb
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.AssemblyReference.cache
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.choose_course.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.exam.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.home_reports.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.login.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.Properties.Resources.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_course_topics.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_exam_questions.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_instructor_course.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_exam_answer.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_grades.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_info.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.show_reports.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.signup_student.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.GenerateResource.cache
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\RdlCompile.cache
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\RdlCompile.compiled
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.CoreCompileInputs.cache
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.CopyComplete
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.exe
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.pdb
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.exe.config
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.exe
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.pdb
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.AssemblyReference.cache
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.choose_course.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.exam.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.home_reports.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.login.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.Properties.Resources.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_course_topics.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_exam_questions.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_instructor_course.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_exam_answer.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_grades.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_info.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.show_reports.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.signup_student.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.GenerateResource.cache
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.CoreCompileInputs.cache
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.CopyComplete
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.exe
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.pdb
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.test_score.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.view_result.resources
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\RdlCompile.cache
+E:\Data Analysis\BI-ITI\Sync\Project\project_final_edition_reports\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\RdlCompile.compiled
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.exe.config
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.exe
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.pdb
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.AssemblyReference.cache
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.choose_course.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.exam.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.home_reports.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.login.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.Properties.Resources.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_course_topics.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_exam_questions.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_instructor_course.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_exam_answer.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_grades.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_info.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.show_reports.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.signup_student.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.test_score.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.view_result.resources
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.GenerateResource.cache
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\RdlCompile.cache
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\RdlCompile.compiled
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.CoreCompileInputs.cache
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.CopyComplete
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.exe
+E:\Data Analysis\Sync\Projects\Portfolio\Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.pdb
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.exe.config
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.exe
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Project_Exam_System.pdb
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.AssemblyReference.cache
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.choose_course.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.exam.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.home_reports.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.login.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.Properties.Resources.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_course_topics.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_exam_questions.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_instructor_course.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_exam_answer.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_grades.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.report_student_info.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.show_reports.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.signup_student.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.test_score.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.view_result.resources
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.GenerateResource.cache
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\RdlCompile.cache
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\RdlCompile.compiled
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.CoreCompileInputs.cache
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.csproj.CopyComplete
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.exe
+E:\Data Analysis\Sync\Projects\Portfolio\1- Exam-system-app\project_final_edition\Project_Exam_System\Project_Exam_System\obj\Debug\Project_Exam_System.pdb
