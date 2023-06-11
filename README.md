@@ -14,12 +14,11 @@ built desktop GUI using windows forms to facilitate CRUD operations
 created multiple stored procedures to facilitate CRUD operations in addition to some stored proc that generate exam randomly based on some parameters and Correct exam answers and return the grade to student
 
 Developed SSRS reports that provides information on :
-
-	• students information according to Department No parameter.
-	•  grades of the student in all courses based on student ID
-	• courses that instructors teaches and the number of students per course based on instructor ID
-	• topics covered in course based on course ID
-	• questions in  the exam with student answers based on exam ID and student ID
+- students information according to Department No parameter.
+- grades of the student in all courses based on student ID
+- courses that instructors teaches and the number of students per course based on instructor ID
+- topics covered in course based on course ID
+- questions in  the exam with student answers based on exam ID and student ID
 
 developed data mart/DWH to analyze system performance and  for reporting purposes by identifying facts and dimensions and getting required tables from operational system
 
@@ -29,12 +28,12 @@ built interactive dashboard using power bi to visualize data and help managerial
 
 ### Technologies Used
 
-SQL Server
-C#
-Windows Form
-Power BI
-SSIS
-SSRS
+- SQL Server
+- C#
+- Windows Form
+- Power BI
+- SSIS
+- SSRS
 
 
 ![Screenshot: ](Screenshot/1.PNG )
