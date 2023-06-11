@@ -20,10 +20,6 @@ Developed SSRS reports that provides information on :
 - topics covered in course based on course ID
 - questions in  the exam with student answers based on exam ID and student ID
 
-developed data mart/DWH to analyze system performance and  for reporting purposes by identifying facts and dimensions and getting required tables from operational system
-
-developed SSIS packages to populate fact and dimension tables
-
 built interactive dashboard using power bi to visualize data and help managerial level discover insights related to system
 
 ### Technologies Used
