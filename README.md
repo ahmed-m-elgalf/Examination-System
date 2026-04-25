@@ -32,8 +32,9 @@ built interactive dashboard using power bi to visualize data and help managerial
 - SSRS
 
 
+
+![Screenshot: ](Screenshot/8.jpg )
+![Screenshot: ](Screenshot/7.jpg )
 ![Screenshot: ](Screenshot/1.PNG )
-![Screenshot: ](Screenshot/3.PNG )
-![Screenshot: ](Screenshot/4.PNG )
 ![Screenshot: ](Screenshot/5.PNG )
-![Screenshot: ](Screenshot/6.PNG )
+![Screenshot: ](Screenshot/9.PNG )
