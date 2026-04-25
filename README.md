@@ -37,4 +37,4 @@ built interactive dashboard using power bi to visualize data and help managerial
 ![Screenshot: ](Screenshot/7.jpg )
 ![Screenshot: ](Screenshot/1.PNG )
 ![Screenshot: ](Screenshot/5.PNG )
-![Screenshot: ](Screenshot/9.PNG )
+![Screenshot: ](Screenshot/9.png )
